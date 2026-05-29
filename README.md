@@ -107,7 +107,7 @@ Little, M.A., McSharry, P.E., Roberts, S.J., Costello, D.A.E., Moroz, I.M. (2007
 
 ## Author
 
-**Mohammad Hossein Darabi** — M.Sc. Data Science
+**Diako Darabi** — M.Sc. Data Science
 GitHub: [@Wobbly1212](https://github.com/Wobbly1212)
 
 ## License
